@@ -1,7 +1,7 @@
 # SQL-injection-dorking-
-<h2>Here are all the necessary dorking for sql injection. Find it according to your needs.</h2>
+<h3>Here are all the necessary dorking for sql injection. Find it according to your needs.</h3>
 
-*Dorks Hacking Database for educational proposal*
+<h3>Dorks Hacking Database for educational proposal*</h3>
 
 
 
